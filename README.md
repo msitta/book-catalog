@@ -71,9 +71,6 @@ book_catalog.ipynb   analysis, end to end
 requirements.txt     Python dependencies
 ```
 
-SQL column aliases in the notebook are in Portuguese (for example
-`qtd_livros` = number of books). The first cell has a glossary.
-
 ## Reproducing
 
 The database is hosted by TripleTen and is only available to bootcamp students,
